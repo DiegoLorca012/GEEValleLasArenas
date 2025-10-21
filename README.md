@@ -1,4 +1,5 @@
-Análisis de Cambios Geomorfológicos en el Valle Las Arenas mediante Clasificación Supervisada (1991–2023)
+Análisis de Cambios Geomorfológicos en el Valle Las Arenas mediante Clasificación Supervisada (1991–2023).
+
 Este repositorio reúne los códigos utilizados para analizar los cambios geomorfológicos en el Valle Las Arenas, ubicado en los Andes centrales de Chile, durante las últimas tres décadas. El estudio se desarrolló mediante clasificación supervisada de imágenes satelitales en Google Earth Engine (GEE) utilizando algoritmos de Machine Learning.
 El objetivo principal de este trabajo es evaluar la transformación del paisaje en el Valle Las Arenas entre los años 1991, 2006 y 2023, con el fin de comprender la dinámica geomorfológica reciente asociada a procesos glaciares y paraglaciares, así como los efectos del cambio climático y la megasequía en la cordillera andina.
 El repositorio incluye dos scripts desarrollados en Google Earth Engine:
