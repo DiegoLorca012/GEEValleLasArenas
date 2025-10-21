@@ -1,4 +1,4 @@
-2023
+
 // Centrar el mapa en la zona de estudio
 Map.centerObject(Zona, 10);
 Map.addLayer(Zona, {color: 'red'}, 'Zona de Estudio');
