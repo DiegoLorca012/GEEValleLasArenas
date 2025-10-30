@@ -69,3 +69,5 @@ El trabajo demuestra el potencial de las herramientas de teledetección y aprend
 📜 Licencia
 
 Este proyecto se distribuye bajo la Licencia MIT y puede utilizarse con fines académicos y de investigación, citando la fuente correspondiente.
+El código fue desarrollado por Diego Lorca y Paula Cortés, bajo la supervisión de Hugo Neira.
+
